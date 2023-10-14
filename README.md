@@ -1,5 +1,3 @@
-# React + Vite + Redux-toolkit template
-
-### use this template for Redux-toolkit(JavaScript) template in vite.
-
- 
+### expense tracker 
+1. add your ragular income or expense.
+2. this project created with ReactJs and Redux-toolkit.
